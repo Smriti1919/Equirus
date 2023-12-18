@@ -1,3 +1,5 @@
+Question 4
+
 import java.util.*;
 public class Main
 {
@@ -22,3 +24,8 @@ public class Main
 	    return s;
 	}
 }
+
+Input - acfgh
+Output - hcfga
+
+Status - completed.
